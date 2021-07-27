@@ -1,0 +1,1304 @@
+TypeName,Inches,ScreenResolution,Cpu,Ram,OpSys,Weight,price_inr,TouchScreen,HDD,SSD,SSHD,FStorage
+Ultrabook,13.3,2560x1600,Intel i5,8,macOS,1.37,117893,No,0,128,0,0
+Ultrabook,13.3,1440x900,Intel i5,8,macOS,1.34,79107,No,0,0,0,128
+Notebook,15.6,1920x1080,Intel i5,8,No OS,1.86,50600,No,0,256,0,0
+Ultrabook,15.4,2880x1800,Intel i7,16,macOS,1.83,223296,No,0,512,0,0
+Ultrabook,13.3,2560x1600,Intel i5,8,macOS,1.37,158717,No,0,256,0,0
+Notebook,15.6,1366x768,AMD A9,4,Windows 10,2.1,35200,No,500,0,0,0
+Ultrabook,15.4,2880x1800,Intel i7,16,Mac OS X,2.04,188317,No,0,0,0,256
+Ultrabook,13.3,1440x900,Intel i5,8,macOS,1.34,101966,No,0,0,0,256
+Ultrabook,14.0,1920x1080,Intel i7,16,Windows 10,1.3,131560,No,0,512,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.6,67760,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,No OS,1.86,34663,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,No OS,1.86,30359,No,500,0,0,0
+Ultrabook,15.4,2880x1800,Intel i7,16,macOS,1.83,214717,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,43903,No,0,256,0,0
+Ultrabook,12.0,2304x1440,Intel M ,8,macOS,0.92,111091,No,0,256,0,0
+Ultrabook,13.3,2560x1600,Intel i5,8,macOS,1.37,133632,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,65560,No,0,256,0,0
+Ultrabook,15.4,2880x1800,Intel i7,16,macOS,1.83,251504,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i3,8,No OS,2.2,43912,No,1000,0,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.22,86152,Yes,0,128,0,0
+Netbook,11.6,1366x768,Intel Atom,2,Windows 10,0.98,16887,No,0,0,0,32
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.5,87912,No,1000,128,0,0
+Notebook,15.6,1366x768,AMD E,4,No OS,1.86,22704,No,500,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.62,72072,Yes,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.91,57992,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.3,36840,No,1000,0,0,0
+Ultrabook,13.3,1440x900,Intel i5,8,Mac OS X,1.35,96712,No,0,0,0,128
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.2,70400,No,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.88,114224,No,0,512,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.5,78848,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel Atom,4,Windows 10,1.89,21559,No,0,0,0,64
+Notebook,14.0,1366x768,AMD E,2,Windows 10,1.65,17512,No,0,0,0,32
+Notebook,17.3,1920x1080,AMD A6,4,Windows 10,2.71,38632,No,500,0,0,0
+Ultrabook,13.3,3200x1800,Intel i7,16,Windows 10,1.2,164472,Yes,0,512,0,0
+Ultrabook,13.3,1440x900,Intel i5,8,Mac OS X,1.35,87824,No,0,0,0,256
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.44,21912,No,0,0,0,64
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.1,32296,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.8,86152,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.86,43005,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.1,77352,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Linux,2,34232,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.65,131912,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i5,8,Linux,2.3,46023,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.2,60016,No,0,256,0,0
+2 in 1 Convertible,17.3,1920x1080,Intel i5,12,Windows 10,2.77,87912,Yes,1000,0,0,0
+Ultrabook,13.3,2560x1600,Intel i5,8,macOS,1.37,124872,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,No OS,2.2,32472,No,0,128,0,0
+Gaming,17.3,1920x1080,AMD Ryzen,8,Windows 10,3.2,114312,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.3,56232,No,0,256,0,0
+Notebook,17.3,1366x768,Intel Pentium,4,Windows 10,2.8,41008,No,1000,0,0,0
+2 in 1 Convertible,10.1,1920x1200,Intel Atom,4,Android,0.69,28072,Yes,0,0,0,64
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,74008,No,0,256,0,0
+Notebook,15.6,1920x1080,AMD A6,4,Windows 10,1.86,35067,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i7,8,Windows 10,1.49,97064,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.4,33792,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.13,67566,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,1.91,38632,No,0,128,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2,51585,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.43,215512,No,2000,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Linux,2,36520,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i7,16,Windows 10,2.8,114312,No,2000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.7,77352,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i3,8,No OS,1.7,52712,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.4,82808,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.86,60720,No,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i7,16,Windows 10,1.8,174504,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,1.86,38605,No,500,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.44,20152,No,0,32,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,1.9,48312,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,12,Linux,3,83512,No,1000,0,0,0
+Ultrabook,13.5,2256x1504,Intel i5,4,Windows 10 S,1.25,95832,Yes,0,128,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.4,84040,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,76560,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i5,8,Windows 10,2.7,96360,No,1000,128,0,0
+Notebook,14.0,1366x768,Intel i3,8,Windows 10,2.1,34232,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,83512,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,No OS,2.2,45672,No,2000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.02,75240,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,46640,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.5,85976,No,1000,128,0,0
+Ultrabook,15.6,1920x1080,Intel i5,8,Windows 10,1.88,96462,No,0,256,0,0
+Ultrabook,12.0,2304x1440,Intel i5,8,macOS,0.92,132880,No,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.63,75680,No,0,256,0,0
+Notebook,15.6,1920x1080,AMD A6,4,Windows 10,2.2,35112,No,0,128,0,0
+Notebook,15.6,1366x768,AMD A9,4,Windows 10,2.1,34760,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.65,118712,No,1000,128,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.83,61512,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.96,52711,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.2,127512,No,1000,128,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.21,145112,No,0,256,0,0
+Gaming,15.6,1920x1080,AMD FX,8,Windows 10,2.45,61512,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,60632,No,1000,0,0,0
+Notebook,13.3,1920x1080,Intel i7,16,Windows 10,1.49,105336,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.65,105160,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.25,92312,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.5,74536,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.2,52791,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Linux,2.2,42680,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,6,Windows 10,2,50776,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,12,Windows 10,2.62,109912,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.91,63272,No,0,256,0,0
+Notebook,15.6,1920x1080,AMD E,4,Windows 10,2.1,30712,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Linux,2.2,56936,No,1000,0,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.38,98472,No,0,256,0,0
+Ultrabook,13.5,2256x1504,Intel i5,8,Windows 10 S,1.25,117920,Yes,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,6,Windows 10,1.58,57992,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,1.85,36511,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.3,104984,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.2,114312,No,1000,256,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.58,130240,No,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i7,16,Windows 10,1.5,111056,No,1000,256,0,0
+Ultrabook,13.3,3200x1800,Intel i7,8,Windows 10,1.23,121352,Yes,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.37,123112,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.63,63536,No,500,0,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.21,143352,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.26,123111,Yes,0,256,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.63,95392,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.16,99469,No,1000,256,0,0
+Notebook,17.3,1920x1080,Intel i3,4,Windows 10,2,49632,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.7,98384,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,6,Windows 10,2.1,42152,Yes,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,1.8,197252,No,2000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,No OS,2.2,55352,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i7,16,Windows 10,2.5,111848,No,0,512,0,0
+Notebook,15.6,1366x768,AMD A9,4,Windows 10,2.1,39688,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,No OS,1.86,22792,No,500,0,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.63,71456,No,1000,0,0,0
+Notebook,14.0,1366x768,AMD E,4,Windows 10 S,1.65,24463,No,0,64,0,0
+Notebook,17.3,1920x1080,Intel i7,16,Windows 10,2.8,122848,No,2000,256,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.5,81664,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.36,56231,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,39512,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.6,77792,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,50336,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i7,8,Windows 10,2.05,52624,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.63,86944,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,No OS,1.9,22208,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i5,8,Windows 10,3,82544,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,4,No OS,2.2,43912,No,1000,0,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.32,61512,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i3,4,Windows 10,3,57640,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.75,98210,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,No OS,2.4,76472,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.1,52976,No,500,0,0,0
+Notebook,15.6,1366x768,AMD A6,4,Windows 10,1.86,32472,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.25,96712,No,0,256,0,0
+Ultrabook,12.5,3840x2160,Intel M ,8,Windows 10,0.97,177232,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel Celeron,4,Windows 10,2,30272,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,178552,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,39336,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.56,109935,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.62,79112,No,0,0,1000,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.9,43824,No,0,128,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.8,166320,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,4,Windows 10,1.48,95216,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,6,Windows 10,1.91,54472,No,0,256,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i3,4,Windows 10,1.74,55352,Yes,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.1,115720,Yes,0,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,8,Windows 10,1.56,92312,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,39336,No,500,0,0,0
+Notebook,15.6,1366x768,AMD A9,4,Windows 10,2.03,35464,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i5,4,Windows 10,3,70840,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.13,64064,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.5,94952,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.1,30624,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.4,158312,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2.1,31989,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.56,93323,No,1000,128,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,3,75152,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.49,66352,No,500,0,0,0
+Ultrabook,13.0,2160x1440,Intel i5,8,Windows 10,1.05,118712,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i5,6,Windows 10,2.71,61512,No,2000,0,0,0
+Notebook,15.6,1366x768,AMD A6,4,No OS,2.2,27192,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2,43032,No,500,0,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.5,81224,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,8,Windows 10,2.3,40392,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,39512,No,0,128,0,0
+Gaming,18.4,1920x1080,Intel i7,32,Windows 10,4.4,246312,No,1000,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.90,71544,No,1000,128,0,0
+2 in 1 Convertible,13.3,3840x2160,Intel i5,8,Windows 10,1.29,131912,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Linux,2.02,92312,No,2000,256,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.23,123112,No,0,256,0,0
+2 in 1 Convertible,13.9,3840x2160,Intel i7,16,Windows 10,1.4,162712,Yes,0,512,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.0,69784,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,No OS,1.95,105512,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i7,16,Windows 10,2.77,136312,Yes,0,512,0,0
+Notebook,15.6,3840x2160,Intel i7,16,Windows 10,2.06,210936,Yes,0,512,0,0
+Gaming,15.6,1920x1080,Intel i5,8,No OS,2.4,68552,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.12,87032,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.8,95480,No,1000,128,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i7,16,Windows 10,1.42,248512,Yes,0,1000,0,0
+Notebook,14.0,1920x1080,Intel Celeron,4,Windows 10,1.3,22880,No,0,0,0,32
+Ultrabook,13.3,1920x1080,Intel i5,8,No OS,1.3,87991,No,0,256,0,0
+Notebook,17.3,1600x900,Intel i5,8,No OS,2.8,61424,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.62,73832,Yes,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.5,80432,No,1000,0,0,0
+Gaming,17.3,3840x2160,Intel i7,32,Windows 10,3.49,536712,Yes,0,1000,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.49,84392,No,0,512,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3.35,121352,No,1000,256,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.5,91960,No,0,256,0,0
+Gaming,15.6,3840x2160,Intel i7,16,Windows 10,2.65,162360,No,1000,512,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.1,43384,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.23,65296,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,3.2,153912,No,1000,512,0,0
+Workstation,15.6,3840x2160,Intel Xeon,16,Windows 10,2.8,268840,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,No OS,2.4,123024,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,6,Windows 10,2.3,38632,Yes,1000,0,0,0
+Ultrabook,13.3,3840x2160,Intel i7,8,Windows 10,1.21,171512,Yes,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.2,127512,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.2,52536,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.4,68552,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,123816,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,No OS,2.1,30712,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,No OS,2.2,48312,No,0,256,0,0
+Ultrabook,13.0,2160x1440,Intel i7,8,Windows 10,1.05,131912,No,0,512,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.4,82005,No,0,256,0,0
+Notebook,17.3,1600x900,Intel i5,8,No OS,2.8,51832,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.63,90728,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.6,101112,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,16,Windows 10,1.62,112552,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Linux,2.2,59607,No,0,256,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i5,8,Windows 10,1.74,79112,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.2,119944,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.1,69872,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.42,216158,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,73216,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.3,75593,Yes,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2,67672,No,0,256,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.69,78408,No,500,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.9,111672,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.37,35111,No,1000,0,0,0
+Notebook,15.6,1366x768,AMD E,4,Windows 10,2.1,29040,No,500,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,3.2,131912,No,1000,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.6,75592,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.6,60632,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Linux,2.36,79112,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.1,34320,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A10,4,Windows 10,2.2,50600,No,1000,128,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.7,342320,No,1000,512,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.5,74448,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,8,Windows 10,2.2,51832,No,0,128,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.1,100760,No,1000,128,0,0
+Notebook,17.3,1920x1080,Intel i7,8,No OS,2.69,78232,No,1000,128,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.56,77352,No,0,256,0,0
+2 in 1 Convertible,13.9,1920x1080,Intel i7,8,Windows 10,1.38,94952,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,86680,No,2000,128,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.04,49192,Yes,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3.6,263912,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.49,59400,No,500,0,0,0
+Ultrabook,13.3,2560x1600,Intel i5,8,macOS,1.37,179520,No,0,512,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,8,Windows 10,2.08,72072,Yes,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.3,158312,No,1000,256,0,0
+Notebook,15.6,1366x768,AMD A9,4,Windows 10,1.68,41272,No,1000,0,0,0
+2 in 1 Convertible,13.9,1920x1080,Intel i7,8,Windows 10,1.37,162712,Yes,0,512,0,0
+Notebook,17.3,1920x1080,Intel i3,4,Windows 10,3,61776,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.41,83512,No,0,256,0,0
+Notebook,15.6,1366x768,AMD A6,8,Windows 10,1.91,39239,No,0,128,0,0
+Notebook,17.3,1920x1080,Intel i7,16,Windows 10,2.9,93192,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.14,219912,No,1000,512,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,8,Windows 10,2,149512,Yes,0,512,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.8,100496,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i3,4,No OS,2.2,39072,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.1,63536,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.18,57816,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.24,49720,No,1000,0,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i5,8,Windows 10,2.67,70312,Yes,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.1,131912,Yes,0,1000,0,0
+Notebook,15.6,1920x1080,Intel i5,4,No OS,2.2,41096,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.5,89584,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.05,77440,No,0,256,0,0
+Ultrabook,13.3,2560x1600,Intel i5,8,macOS,1.37,172383,No,0,512,0,0
+Gaming,17.3,1920x1080,AMD Ryzen,16,Windows 10,3.2,136312,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.14,64686,No,0,256,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i7,16,Windows 10,1.36,219912,Yes,0,512,0,0
+Notebook,15.6,1366x768,Intel i7,8,Windows 10,2.2,71456,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i7,12,Windows 10,2.3,62750,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Linux,2.8,96712,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,65560,No,1000,0,0,0
+Notebook,17.3,1600x900,Intel i3,4,Windows 10,2.8,43032,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i7,8,No OS,2.8,74712,No,2000,0,0,0
+Notebook,17.3,1600x900,Intel i7,6,Windows 10,2.8,75592,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Linux,2.25,37664,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.5,72952,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,6,Windows 10,2.2,50952,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,3,83688,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,12,Windows 10,2.15,57992,Yes,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.95,96536,No,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i5,8,Windows 10,1.7,85976,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.5,103752,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,No OS,2.2,57993,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,2,Chrome OS,2.19,17512,No,0,16,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,3,104456,No,1000,0,0,0
+Notebook,17.3,1600x900,Intel i3,8,Windows 10,2.54,43032,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2,160952,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.05,65032,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,3.2,114312,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.5,86152,No,0,256,0,0
+Workstation,17.3,1920x1080,Intel i7,16,Windows 10,3.42,253868,No,0,256,0,0
+Notebook,15.6,1920x1080,AMD A10,6,Windows 10,2.4,43912,No,1000,0,0,0
+Ultrabook,15.6,1920x1080,Intel i7,16,Windows 10,1.63,129184,No,0,512,0,0
+Notebook,14.0,1366x768,Intel i3,4,Windows 10,1.3,44792,No,0,128,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,186736,No,1000,256,0,0
+Notebook,17.3,1600x900,Intel i5,6,Windows 10,2.8,57112,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,No OS,2.2,48312,No,2000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.5,111320,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,No OS,2.2,31679,No,1000,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,16,Windows 10,1.28,173800,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,91784,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,72072,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,1.86,41272,No,1000,0,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.1,87912,No,0,256,0,0
+Ultrabook,13.3,3840x2160,Intel i7,16,Windows 10,1.21,219912,Yes,0,1000,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.8,184712,No,1000,256,0,0
+Notebook,15.6,1920x1080,AMD A8,8,Windows 10,2.23,41272,No,0,256,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Celeron,2,Windows 10,1.1,24200,Yes,0,0,0,32
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.33,74272,No,1000,128,0,0
+2 in 1 Convertible,13.3,3840x2160,Intel i7,16,Windows 10,1.29,215512,Yes,0,1000,0,0
+Notebook,13.3,1366x768,Intel Celeron,4,Chrome OS,1.45,40471,No,0,0,0,16
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.95,86240,No,0,256,0,0
+Notebook,11.6,1366x768,Intel Pentium,4,Windows 10,1.4,42680,No,0,0,0,128
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.48,113696,No,0,256,0,0
+Notebook,17.3,1600x900,Intel i5,4,Windows 10,2.79,51832,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,2,96272,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i7,8,Windows 10,2.1,79376,No,1000,0,0,0
+Notebook,15.6,1366x768,AMD A12,8,Windows 10,2.2,57992,No,0,256,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.44,25696,No,0,0,0,32
+Notebook,15.6,1366x768,Intel i5,6,Windows 10,2.23,48312,No,1000,0,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.7,92391,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.26,117480,No,0,256,0,0
+Notebook,15.6,3840x2160,Intel i7,32,Windows 10,2.06,232232,Yes,0,1000,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,105512,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.0,82984,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,2,117392,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,1.85,39512,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.5,87912,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.48,111584,No,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,92312,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.84,100672,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2,24199,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2,100562,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2.2,24191,No,500,0,0,0
+Notebook,15.6,1920x1080,AMD A12,12,Windows 10,2.2,79112,No,2000,0,0,0
+Notebook,15.6,1920x1080,Intel i3,8,Windows 10,2.1,63008,No,1000,0,0,0
+2 in 1 Convertible,13.9,3840x2160,Intel i7,16,Windows 10,1.4,184712,Yes,0,512,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.2,138952,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.4,99352,No,2000,256,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Windows 10,1.44,24552,No,0,0,0,32
+Ultrabook,15.6,1920x1080,Intel i7,16,Windows 10,1.88,141500,No,0,768,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Celeron,4,Windows 10,1.5,33000,Yes,0,0,0,32
+Ultrabook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,58344,No,1000,0,0,0
+Notebook,15.6,3840x2160,Intel i7,16,Windows 10,2.06,178413,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.84,114752,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,123992,No,1000,128,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2.6,152968,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.4,123464,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.02,85439,No,2000,128,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,No OS,2.2,28335,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.65,87912,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.36,49049,Yes,2000,0,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.36,125576,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,1.86,38632,No,500,0,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,2,83160,No,0,256,0,0
+Notebook,17.3,1600x900,Intel i5,6,Windows 10,2.8,63272,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.86,56232,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,8,No OS,2.2,43912,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,8,Windows 10,2.04,34232,No,2000,0,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.8,95480,No,1000,128,0,0
+Gaming,15.6,1920x1080,Intel i5,8,No OS,2.4,71192,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.33,79112,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.36,154000,No,0,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,12,Windows 10,2.26,96712,Yes,2000,512,0,0
+Notebook,15.6,1366x768,AMD A9,4,Windows 10,2.1,37488,No,0,128,0,0
+Gaming,17.3,1920x1080,AMD Ryzen,16,Windows 10,3.25,193512,No,1000,256,0,0
+Notebook,17.3,1600x900,AMD A8,4,Windows 10,2.6,43032,No,0,128,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.62,76473,Yes,0,256,0,0
+Notebook,15.6,1920x1080,AMD A9,4,Windows 10,1.91,43031,No,0,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Windows 10,1.59,48664,No,0,128,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,1.8,27192,No,500,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.5,25168,No,0,0,0,32
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.4,74448,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,3.35,104808,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i3,4,No OS,1.85,35508,No,0,128,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.3,145640,No,1000,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.5,96712,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,16,Windows 10,1.1,153903,Yes,0,512,0,0
+Ultrabook,14.0,2560x1440,Intel i7,8,Windows 10,1.13,200816,No,0,512,0,0
+Notebook,13.3,1920x1080,Intel i3,4,Windows 10,1.5,48312,No,0,128,0,0
+Workstation,15.6,1920x1080,Intel i5,8,Windows 10,2.23,120472,No,500,0,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2,187880,No,0,256,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i7,16,Windows 10,1.42,220792,Yes,0,512,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,3,91432,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3,140008,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i5,12,Windows 10,2.2,61071,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,118712,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.33,68541,No,0,256,0,0
+Ultrabook,15.6,1920x1080,AMD A9,4,Windows 10,1.91,43912,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.1,108201,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.9,82544,No,0,256,0,0
+Workstation,15.6,3840x2160,Intel i7,8,Windows 10,1.78,238656,Yes,0,256,0,0
+Ultrabook,14.0,2560x1440,Intel i7,16,Windows 10,1.13,231000,No,0,1000,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.2,26928,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,134552,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.1,100716,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.5,77352,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.8,197912,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.10,164824,No,0,512,0,0
+Ultrabook,13.3,1920x1080,Intel i7,16,Windows 10,1.2,153736,No,0,512,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.36,147840,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,35992,No,500,0,0,0
+Notebook,11.6,1366x768,Intel Celeron,2,Windows 10,1.15,26792,No,0,0,0,32
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2.67,169400,No,0,512,0,0
+Ultrabook,14.0,2560x1440,Intel i7,8,Windows 10,1.7,170984,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.1,41272,No,1000,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.6,69433,Yes,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.27,81664,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Linux,2.3,52703,No,0,256,0,0
+Notebook,13.3,1366x768,Intel i3,4,Windows 10,1.65,60632,No,0,128,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.43,132000,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.14,47516,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.75,106953,No,0,256,0,0
+2 in 1 Convertible,15.6,3840x2160,Intel i7,16,Windows 10,2,167112,Yes,0,512,0,0
+Notebook,12.3,2736x1824,Intel Celeron,6,Windows 10,1.4,39512,No,0,0,0,64
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.31,125576,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,8,Linux,2.3,52536,No,1000,0,0,0
+Gaming,17.3,2560x1440,Intel i7,16,Windows 10,4.42,246312,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.62,101992,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.02,100531,No,2000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Linux,1.6,96712,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,12,Windows 10,3.35,175912,No,1000,256,0,0
+2 in 1 Convertible,11.6,1920x1080,Intel Celeron,4,Windows 10,1.16,26312,Yes,0,32,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.15,23672,No,0,0,0,16
+Notebook,13.3,1920x1080,Intel i7,8,Windows 10,1.4,88880,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i3,4,Windows 10,1.7,52712,No,0,128,0,0
+Workstation,15.6,3840x2160,Intel i7,16,Windows 10,2.3,215160,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.5,215512,No,0,512,0,0
+Gaming,17.3,1920x1080,AMD Ryzen,8,Windows 10,3.2,149160,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.1,30536,No,500,0,0,0
+Ultrabook,12.3,2400x1600,Intel i7,16,Chrome OS,1.1,193512,Yes,0,512,0,0
+Ultrabook,14.0,2560x1440,Intel i7,24,Windows 10,1.32,209616,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Linux,2,49192,No,0,256,0,0
+Notebook,17.3,1600x900,AMD A6,8,Windows 10,2.8,45672,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.2,65912,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i5,8,Windows 10,1.36,125752,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel Pentium,4,Windows 10,2.2,30712,No,0,128,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,96712,No,1000,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.64,103752,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Linux,2.4,38878,No,500,0,0,0
+Workstation,15.6,1920x1080,Intel Xeon,8,Windows 10,2.23,175384,No,1000,0,0,64
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.2,90441,No,0,256,0,0
+Ultrabook,13.5,2256x1504,Intel i7,16,Windows 10 S,1.25,227832,Yes,0,512,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,1.91,51832,No,0,128,0,0
+Workstation,15.6,1920x1080,Intel i7,16,Windows 10,2.17,173800,No,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2.31,134992,No,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.65,118360,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.36,86152,No,1000,128,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Pentium,4,Windows 10,1.47,42152,Yes,500,0,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,4.42,180048,No,1000,0,0,0
+Ultrabook,13.5,2256x1504,Intel M ,4,Windows 10 S,1.25,87032,Yes,0,128,0,0
+Ultrabook,13.5,2256x1504,Intel i7,8,Windows 10 S,1.25,158312,Yes,0,256,0,0
+Notebook,17.3,1600x900,Intel i3,8,Windows 10,2.5,56311,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.23,47872,No,1000,0,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Windows 10,1.4,38280,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.37,65912,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i7,8,No OS,1.5,70312,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.67,183920,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2,26752,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.2,41272,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.02,66792,No,2000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,12,Windows 10,3.78,149512,No,1000,0,0,0
+Ultrabook,14.0,2560x1440,Intel i7,12,Windows 10,1.4,163504,No,0,256,0,0
+2 in 1 Convertible,13.3,3840x2160,Intel i7,8,Windows 10,1.29,175912,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,101552,No,500,0,0,0
+Ultrabook,12.3,2400x1600,Intel i5,8,Chrome OS,1.1,112200,Yes,0,128,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.42,162083,Yes,0,256,0,0
+Notebook,15.6,3840x2160,Intel i7,12,Windows 10,2.06,114312,No,1000,128,0,0
+Notebook,14.0,1366x768,Intel i3,8,Windows 10,1.79,65120,No,0,128,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,1.78,211904,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.7,120032,No,0,180,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.2,59400,No,1000,0,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.05,147136,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.16,111056,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.18,51621,No,1000,0,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.49,63888,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel Atom,4,Windows 10,1.89,21903,No,0,0,0,64
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.3,49720,No,0,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.75,92312,No,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,16,Windows 10,2.17,205744,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.06,167112,No,0,512,0,0
+Ultrabook,12.5,1920x1080,Intel i7,16,Windows 10,1.36,158224,No,0,512,0,0
+Ultrabook,12.5,1920x1080,Intel i7,16,Windows 10,0.91,171600,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,89055,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,32,Windows 10,1.05,246312,Yes,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,1.99,118800,No,1000,128,0,0
+Notebook,15.6,1366x768,AMD A10,8,Windows 10,2.2,50952,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,24,Windows 10,4.33,111672,Yes,1000,256,0,0
+Ultrabook,12.5,1366x768,Intel i5,8,Windows 10,1.3,96712,No,0,180,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.17,79103,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.48,153912,No,0,1000,0,0
+Notebook,13.3,1920x1080,Intel i3,8,Windows 10,1.4,83512,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,80168,No,0,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Windows 10 S,1.2,29920,No,0,0,0,64
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,1.91,54471,No,0,256,0,0
+2 in 1 Convertible,13.9,1920x1080,Intel i5,8,Windows 10,1.4,140712,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,2.1,26312,No,500,0,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.25,23320,No,0,16,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.44,83512,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2,107712,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.2,53944,No,1000,0,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.34,116424,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,No OS,2.4,101112,No,1000,256,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.29,79112,Yes,0,128,0,0
+Notebook,15.6,1920x1080,Intel i7,4,Windows 10,2.2,56232,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.18,73568,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.2,107293,No,2000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,No OS,1.95,123196,No,0,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,2,Windows 10,1.1,21560,No,0,0,0,32
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.04,45889,Yes,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,24,Windows 10,2.24,261184,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.04,78232,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3,132352,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,3.2,123112,No,1000,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.32,123112,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.64,112616,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,1.63,60632,No,0,128,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Linux,2.8,78232,No,1000,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 7,2.02,117920,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,4,Windows 10,2.2,70312,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,8,No OS,2.2,40392,No,2000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.3,51480,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,121176,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.42,265124,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.0,75680,No,500,0,0,0
+Notebook,15.6,3840x2160,Intel i7,8,Windows 10,2,114312,No,1000,256,0,0
+Notebook,13.3,1920x1080,Intel Celeron,4,Windows 10,1.2,32472,No,0,32,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.3,145112,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.93,120472,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.2,70172,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel Pentium,4,Windows 10,1.86,35111,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,12,Windows 10,2.62,158312,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.87,75592,No,0,256,0,0
+Ultrabook,13.3,3200x1800,Intel i7,8,Windows 10,1.2,123112,Yes,0,256,0,0
+Notebook,14.0,1920x1080,Intel i3,4,Windows 10,1.6,64757,No,0,128,0,0
+Ultrabook,13.3,3200x1800,Intel i7,8,Windows 10,1.34,100760,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Linux,2.4,70224,No,1000,0,0,0
+Notebook,15.6,1366x768,AMD E,4,Windows 10,2,30712,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.1,62084,No,0,128,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.87,69080,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,No OS,2.15,40687,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,1.86,34936,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.99,152152,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,43912,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,98295,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.42,237512,No,1000,256,0,0
+Notebook,17.3,1600x900,Intel i3,8,Windows 10,2.65,47885,No,1000,0,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.63,112640,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2,19712,No,500,0,0,0
+Notebook,13.3,1920x1080,Intel Atom,4,Windows 10,1.35,22440,No,0,0,0,32
+Notebook,17.3,1600x900,Intel i7,6,Windows 10,2.8,83512,No,1000,128,0,0
+Notebook,15.6,1920x1080,AMD A10,6,Windows 10,1.91,50063,No,0,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.18,54375,No,1000,0,0,0
+2 in 1 Convertible,11.6,1920x1080,Intel Celeron,4,Windows 10,1.25,30712,Yes,0,0,0,32
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.05,55440,No,0,128,0,0
+Ultrabook,13.3,3200x1800,Intel M ,16,Windows 10,1.16,172920,Yes,0,512,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,3.4,263912,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.5,73832,No,1000,128,0,0
+Ultrabook,13.3,3840x2160,Intel i5,8,Windows 10,1.21,140712,Yes,0,128,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.93,84392,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.2,65032,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel Pentium,4,Windows 10,2.2,30272,No,500,0,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,2.02,87120,No,500,0,0,0
+Workstation,17.3,1600x900,Intel i5,8,Windows 10,3.14,163767,No,500,0,0,0
+Notebook,14.0,1366x768,Intel Pentium,8,Windows 10,1.94,34232,No,2000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,6,Windows 10,1.95,57112,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,73040,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.05,60280,No,500,0,0,0
+Notebook,14.0,1920x1080,Intel Atom,4,Windows 10,1.4,21912,No,0,32,0,0
+Ultrabook,14.0,1920x1080,Intel i7,16,Windows 10,1.24,164120,Yes,0,512,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.6,234344,No,1000,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.14,240152,No,1000,512,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,2.2,65913,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel Celeron,4,Windows 10,1.45,34232,No,0,32,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,1.9,88750,No,500,0,0,0
+Notebook,13.3,1920x1080,Intel i3,4,Windows 10,1.49,63272,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,1.93,135290,No,0,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.26,25960,No,0,0,0,16
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.5,206712,No,1000,128,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3.78,131824,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,12,Windows 10,1.4,147224,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i7,12,Windows 10,2.2,53592,Yes,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i5,8,Windows 10,2.73,155760,No,1000,128,0,0
+2 in 1 Convertible,15.6,1366x768,Intel i5,8,Windows 10,2.2,65032,Yes,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A12,12,Windows 10,2.2,83512,No,0,512,0,0
+2 in 1 Convertible,11.6,1366x768,Intel M ,4,Windows 10,1.39,53064,Yes,0,128,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.5,149512,No,1000,128,0,0
+Notebook,17.3,1920x1080,Intel i3,4,No OS,2.8,46552,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,8,Windows 10,2.29,40392,No,1000,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.37,178200,Yes,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.7,129712,No,0,256,0,0
+2 in 1 Convertible,12.5,1920x1080,Intel i5,8,Windows 10,1.34,146960,Yes,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2.06,155144,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.84,107272,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,58826,No,500,0,0,0
+Notebook,14.0,1920x1080,Intel Celeron,4,Windows 10,1.6,28952,No,0,0,0,32
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.14,193512,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.18,40920,No,1000,0,0,0
+Gaming,15.6,3840x2160,Intel i7,16,Windows 10,1.8,202312,No,2000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,123112,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,6,Windows 10,2.4,49632,No,1000,0,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,8,Windows 10,2,114312,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel Pentium,4,Windows 10,1.6,30712,No,0,0,0,128
+Notebook,15.6,3840x2160,Intel Xeon,32,Windows 10,2.5,431112,No,0,1000,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.59,77353,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.18,39063,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.25,31592,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,Linux,1.93,76472,No,500,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,3,102784,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Linux,2.18,50072,No,0,128,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.84,122232,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.94,199572,No,1000,256,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Celeron,4,Chrome OS,1.25,33352,Yes,0,0,0,32
+Notebook,14.0,1366x768,Intel i5,8,Windows 10,2.31,98912,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 7,1.65,128920,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.2,68288,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.2,70312,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 7,1.88,82016,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,79112,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel Atom,2,Windows 10,1.4,21032,No,0,0,0,32
+Notebook,15.6,1920x1080,Intel i5,4,No OS,2.2,41184,No,0,128,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,6,Windows 10,1.5,56233,Yes,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2,160160,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,16,Windows 10,1.1,167200,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.62,130152,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,1.8,72952,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,50952,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,8,Windows 10,2,35112,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.99,79783,No,1000,0,0,0
+Ultrabook,13.3,3200x1800,Intel i5,8,Windows 10,1.23,164472,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Windows 10,1.42,21912,No,0,0,0,32
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.37,154653,Yes,0,256,0,0
+Notebook,15.6,3840x2160,Intel i7,16,Windows 10,2.06,211112,Yes,0,1000,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.5,97592,No,1000,128,0,0
+Notebook,17.0,1600x900,AMD A9,8,Windows 10,2.6,45839,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,16,Windows 10,1.14,215600,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,No OS,2.5,102872,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.4,39600,No,500,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.43,24112,No,0,0,0,32
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.8,80872,No,0,256,0,0
+Gaming,14.0,1920x1080,Intel i7,16,Windows 10,1.95,228712,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.2,106744,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.36,139392,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,3.8,246312,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Linux,2.4,62392,No,1000,0,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.2,127591,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,104878,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,No OS,1.86,32111,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.0,93632,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,80872,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.2,99880,No,2000,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,3.31,105248,No,1000,128,0,0
+Gaming,17.3,3840x2160,Intel i7,32,Windows 10,4.42,276969,No,1000,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.56,108152,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.2,36872,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.2,47080,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i3,6,Windows 10,2.04,47432,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,130836,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,43824,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.06,84040,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.1,65560,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.0,110704,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.1,36256,No,0,128,0,0
+Ultrabook,13.5,2256x1504,Intel i7,8,Windows 10 S,1.25,164371,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.90,71980,No,1000,128,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.3,90992,Yes,0,256,0,0
+Notebook,15.6,1366x768,AMD E,4,Windows 10,2.2,30712,No,0,128,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i3,4,Windows 10,1.63,61512,Yes,0,128,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.4,113872,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.1,99880,No,0,256,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Celeron,8,Chrome OS,1.4,43560,Yes,0,0,0,64
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.09,202312,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i5,16,Windows 10,2.5,114312,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.2,87815,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,1.86,36872,No,0,128,0,0
+Gaming,15.6,1920x1080,Intel i5,16,Windows 10,3.21,180488,No,1000,128,0,0
+Notebook,17.3,1920x1080,Intel i3,4,Windows 10,2.5,61512,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.19,131912,Yes,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,3.49,247610,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.86,53910,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.2,48019,No,1000,0,0,0
+Notebook,17.3,1920x1080,AMD A10,6,Windows 10,2.65,50072,No,2000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.1,27984,No,500,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Chrome OS,1.45,33000,No,0,0,0,32
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.7,61512,No,0,256,0,0
+Workstation,17.3,1920x1080,Intel i7,8,Windows 10,3.14,167903,No,500,0,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i7,8,Windows 10,1.42,227920,Yes,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.5,85624,No,0,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Windows 10,1.4,23672,No,0,0,0,32
+2 in 1 Convertible,14.0,1920x1080,Intel i7,16,Windows 10,1.38,153912,Yes,0,512,0,0
+2 in 1 Convertible,12.5,1920x1080,Intel M ,4,Chrome OS,1.2,58872,Yes,0,0,0,64
+Ultrabook,13.3,1920x1080,Intel i7,16,Windows 10,1.36,165176,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,4,Windows 10,2.1,60632,No,500,0,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.56,72072,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,4,Windows 10,2.2,35112,No,0,256,0,0
+Notebook,15.6,1366x768,AMD A12,8,Windows 10,2.2,37752,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.1,54688,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,No OS,1.90,39600,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.18,69960,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.6,87912,Yes,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,16,Windows 7,2.18,163240,No,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.8,104808,No,0,256,0,0
+Notebook,17.3,1920x1080,AMD A10,6,Windows 10,2.71,57641,No,2000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.5,109912,No,1000,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Linux,1.64,95832,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Linux,1.98,63888,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel Celeron,4,Windows 10,1.5,26224,No,0,0,0,32
+Notebook,15.6,1920x1080,Intel i5,16,Windows 10,1.93,125546,No,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.87,75422,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,103752,No,0,256,0,0
+Notebook,15.6,1366x768,AMD A6,4,Windows 10,2.19,26224,No,500,0,0,0
+Notebook,14.0,1920x1200,Intel Atom,4,Windows 10,1.4,23320,No,32,0,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Windows 10,2.63,105600,No,0,256,0,0
+Ultrabook,14.0,2560x1440,Intel i7,8,Windows 10,1.17,148424,No,0,512,0,0
+2 in 1 Convertible,13.3,1366x768,Intel i5,8,Windows 10,1.58,73621,Yes,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.32,131912,No,0,256,0,0
+Gaming,17.3,3840x2160,Intel i7,32,Windows 10,4.36,322027,No,1000,1000,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,118666,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i5,4,No OS,1.9,43111,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.2,63272,No,1000,128,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i3,4,Windows 10,1.71,57112,Yes,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,Linux,2.32,51878,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,4,Windows 10,2.1,43032,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.2,170280,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i5,12,Windows 10,2.25,57112,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,6,Windows 10,2.1,57200,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.4,49192,No,500,0,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.44,84480,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,4,Windows 10,1.85,68552,No,1000,0,0,0
+Workstation,15.6,1920x1080,Intel i7,16,Windows 10,2.6,212872,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.55,57992,Yes,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,1.8,184314,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.4,36150,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.0,106216,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,8,Windows 10,2,58520,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.25,135080,Yes,0,256,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i5,8,Windows 10,1.7,87912,Yes,0,256,0,0
+Workstation,15.6,3840x2160,Intel i7,16,Windows 10,2.5,290312,No,0,1000,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Chrome OS,1.68,29040,No,0,0,0,32
+Ultrabook,13.3,1920x1080,Intel i7,16,Windows 10,0.81,145112,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,8,Windows 10,1.86,47432,No,0,256,0,0
+Notebook,14.0,1366x768,Intel i5,8,Windows 10,1.6,99150,No,0,256,0,0
+Workstation,17.3,1920x1080,Intel Xeon,16,Windows 7,3,386232,No,0,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Windows 10,1.4,41800,Yes,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.84,167200,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,No OS,2.45,50952,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i5,4,Windows 10,1.7,96448,No,0,180,0,0
+Notebook,15.6,1366x768,Intel i7,4,Windows 10,2.37,74791,No,0,256,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i5,8,Windows 10,1.3,105512,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.2,96712,No,1000,128,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 7,2.59,137368,No,0,256,0,0
+Gaming,15.6,3840x2160,Intel i7,16,Windows 10,4.42,252471,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.1,52712,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.5,92224,No,1000,128,0,0
+Ultrabook,12.5,1920x1080,Intel i7,16,Windows 10,1.18,163592,No,0,256,0,0
+Ultrabook,12.3,2400x1600,Intel i5,8,Chrome OS,1.1,137192,Yes,0,256,0,0
+Ultrabook,13.3,3200x1800,Intel i5,8,Windows 10,1.2,99352,No,0,256,0,0
+Notebook,13.3,1366x768,Intel i3,4,Windows 10,1.65,74712,No,500,0,0,0
+Notebook,13.3,1366x768,Intel i5,4,Windows 10,1.6,57640,No,0,128,0,0
+Notebook,17.3,1366x768,Intel Pentium,4,Windows 10,2.8,41390,No,1000,0,0,0
+Gaming,15.6,3840x2160,Intel i7,16,Windows 10,2.72,96712,Yes,1000,128,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.31,140712,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Linux,2.1,26224,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.3,103952,No,0,256,0,0
+2 in 1 Convertible,15.0,1920x1080,Intel i7,16,Windows 10,1.71,158312,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.75,89760,No,0,128,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.62,96712,No,1000,0,0,0
+Ultrabook,12.5,1366x768,Intel i5,4,Windows 10,1.26,109472,No,0,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,12,Windows 10,2.3,73832,Yes,2000,0,0,0
+Notebook,15.6,3840x2160,Intel i7,16,Windows 7,2.5,208560,No,0,512,0,0
+Notebook,14.0,1920x1080,Intel i3,4,Windows 10,1.8,55968,No,0,128,0,0
+Gaming,14.0,1920x1080,Intel i7,16,Windows 10,1.95,255112,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel Pentium,8,Windows 10,2,51207,No,0,128,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.42,315814,No,1000,1000,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.3,206800,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,16,Windows 10,1.47,155232,No,0,512,0,0
+Notebook,15.6,1366x768,Intel Celeron,8,No OS,2.2,28952,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,16,Windows 10,1.7,202312,No,0,512,0,0
+Gaming,14.0,1920x1080,Intel i7,16,Windows 10,1.6,166408,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.2,95832,No,1000,128,0,0
+Gaming,15.6,1920x1080,Intel i7,4,Windows 10,2.4,87912,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.2,202312,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.62,86680,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.24,117832,No,1000,128,0,0
+Notebook,14.0,1920x1080,Intel Celeron,4,Windows 10,1.22,17855,No,0,0,0,32
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.37,173360,Yes,0,512,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i5,8,Windows 10,2.08,84392,Yes,0,256,0,0
+Ultrabook,12.0,2304x1440,Intel M ,8,Mac OS X,0.92,102520,No,0,0,0,512
+2 in 1 Convertible,14.0,2560x1440,Intel i5,8,Windows 10,1.42,205040,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.63,26312,No,0,0,0,32
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,1.95,71280,No,0,128,0,0
+2 in 1 Convertible,13.9,1920x1080,Intel i7,8,Windows 10,1.38,118712,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,8,Windows 10,2,65032,No,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,3.14,181711,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.37,96712,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.29,131912,No,0,256,0,0
+Notebook,15.6,3840x2160,Intel i5,8,Windows 10,2.06,153912,Yes,0,256,0,0
+Netbook,11.6,1366x768,Intel Pentium,4,Windows 10,1.63,65472,No,0,128,0,0
+Netbook,12.5,1366x768,Intel i5,8,Windows 10,1.26,122232,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.1,68640,No,500,0,0,0
+Notebook,15.6,1366x768,AMD A12,8,Windows 10,2.04,55352,No,2000,0,0,0
+Gaming,15.6,3840x2160,Intel i7,16,Windows 10,2.62,147752,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.4,53592,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,12,Windows 10,3.74,153912,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,212520,No,1000,512,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,0.81,131912,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.98,84568,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.18,69503,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.32,163592,No,0,256,0,0
+Ultrabook,12.5,3840x2160,Intel i7,16,Windows 10,1.29,158312,Yes,0,512,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.23,33880,No,0,0,0,16
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.36,220442,No,1000,128,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.76,66440,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,43111,No,500,0,0,0
+Ultrabook,14.0,1366x768,Intel i5,4,Windows 10,1.25,95920,No,0,128,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.13,219912,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.4,105512,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.13,165000,No,0,0,0,256
+Notebook,14.0,1366x768,Intel Pentium,4,Windows 10,1.75,43912,No,0,128,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.1,119504,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel i3,4,Windows 10,1.76,51480,No,500,0,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.35,31240,No,0,0,0,32
+Notebook,14.0,1920x1080,Intel i3,8,Windows 10,1.5,54472,No,0,128,0,0
+Gaming,17.3,3840x2160,Intel i7,32,Windows 10,3.49,483912,Yes,0,512,0,0
+Ultrabook,14.0,2560x1440,Intel i7,16,Windows 10,1.1,184712,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Linux,2.1,45672,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.7,104368,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.32,145200,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,3.21,244167,No,1000,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,212872,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.0,58872,No,500,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Chrome OS,1.5,28600,No,0,0,0,16
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,51920,No,128,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.73,158312,No,1000,512,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.42,270414,No,1000,512,0,0
+Notebook,17.3,1600x900,Intel i5,8,Windows 10,2.63,80080,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.18,62831,No,0,128,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 7,1.54,164560,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i7,4,Windows 10,2.18,65032,No,0,256,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Celeron,4,Chrome OS,1.4,54120,Yes,0,0,0,32
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.45,90288,No,0,512,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.28,200376,Yes,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.54,129184,No,0,512,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,No OS,1.86,26312,No,0,128,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.1,167112,No,1000,128,0,0
+Notebook,17.3,1920x1080,Intel i7,8,Linux,2.83,76120,No,1000,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.96,167464,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.3,69256,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,83160,No,0,128,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2,39512,No,1000,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.28,225192,Yes,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.62,57112,Yes,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,No OS,2.2,41272,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,74858,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.84,118712,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.05,113080,No,0,128,0,0
+Gaming,15.6,1920x1080,Intel i5,8,No OS,2.5,89496,No,1000,0,0,0
+Ultrabook,13.3,3200x1800,Intel i7,16,Windows 10,1.29,197120,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.07,80080,No,500,0,0,0
+Ultrabook,13.3,1366x768,Intel i5,8,Windows 10,1.2,96360,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.37,171600,Yes,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.56,79376,No,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2.23,156464,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.38,92840,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,No OS,2.2,42152,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.0,122144,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i3,4,Windows 10,1.44,64680,No,0,180,0,0
+Ultrabook,15.0,1920x1080,Intel i7,16,Windows 10,1.23,162712,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.6,148720,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Linux,2,35111,No,1000,0,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.28,82280,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.18,80300,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.04,73832,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,4,Windows 10,1.28,149600,Yes,0,256,0,0
+2 in 1 Convertible,15.6,1366x768,Intel i5,4,Windows 10,2.3,60262,Yes,500,0,0,0
+Notebook,14.1,1366x768,Intel Celeron,4,Windows 10,1.65,30624,No,0,0,0,32
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.2,58872,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2.2,32472,No,500,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,4,Windows 10,1.28,158312,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.18,40102,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i5,12,Windows 10,2.2,120551,No,1000,128,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.25,26136,No,0,0,0,32
+Notebook,17.3,1600x900,AMD A4,4,Windows 10,2.8,33352,No,500,0,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.95,111320,No,0,128,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,16,Windows 10,1.42,123112,Yes,0,256,0,0
+Ultrabook,15.0,1920x1080,Intel i7,8,Windows 10,1.17,149512,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.32,158312,No,0,256,0,0
+Gaming,17.3,3840x2160,Intel i7,16,Windows 10,2.43,233112,No,2000,512,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.05,129800,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Linux,2.62,81752,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.04,79200,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.18,54032,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.9,82280,No,500,0,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,8,Windows 10,1.24,177153,Yes,0,512,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,3.58,112552,No,0,512,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,16,Windows 10,1.22,145112,Yes,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.13,180312,No,0,0,0,256
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.95,172743,No,0,512,0,0
+Ultrabook,15.6,1920x1080,Intel i7,16,Windows 10,1.08,184712,Yes,0,512,0,0
+Netbook,12.5,1920x1080,Intel i7,8,Windows 10,1.26,130504,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel Celeron,4,Chrome OS,2.20,31592,No,0,0,0,16
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.6,69432,No,1000,128,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,0.98,167112,Yes,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.6,106040,No,0,256,0,0
+Ultrabook,12.5,3840x2160,Intel M ,8,Windows 10,1.09,272800,Yes,0,240,0,0
+Notebook,15.6,1920x1080,Intel i7,6,Windows 10,2.2,69432,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.04,89671,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.4,43912,No,1000,0,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.44,77528,No,0,128,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.49,84480,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.7,140712,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.6,118712,No,1000,128,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.2,98552,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.18,60279,No,1000,0,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.84,114135,No,0,256,0,0
+Ultrabook,13.3,3200x1800,Intel i7,8,Windows 10,1.39,101112,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.4,173800,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.37,160600,Yes,0,512,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.95,64231,No,500,0,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.36,145200,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.31,102520,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.18,62309,No,1000,0,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.95,101112,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2.2,27192,No,1000,0,0,0
+Ultrabook,12.5,1920x1080,Intel i5,4,Windows 10,1.26,138952,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,No OS,1.86,25423,No,1000,0,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,16,Windows 10,1.3,158312,Yes,0,1000,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.47,97240,No,0,128,0,0
+Netbook,12.5,1920x1080,Intel i5,8,Windows 10,1.26,146872,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.18,49157,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,105512,No,1000,128,0,0
+Ultrabook,14.0,1920x1080,Intel i5,8,Windows 10,1.36,144232,No,0,256,0,0
+Gaming,17.3,2560x1440,Intel i7,16,Windows 10,4.36,242704,No,1000,512,0,0
+Gaming,17.3,1920x1080,Intel i5,8,Windows 10,2.75,123112,No,1000,128,0,0
+Notebook,17.3,1600x900,Intel Pentium,4,Windows 10,2.8,46640,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.23,54472,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.2,98472,No,0,256,0,0
+2 in 1 Convertible,11.3,1920x1080,Intel M ,8,Windows 10,1.1,114312,Yes,0,256,0,0
+Gaming,15.6,1920x1080,AMD FX,16,Windows 10,2.5,87912,No,1000,512,0,0
+Ultrabook,12.5,1920x1080,Intel i5,8,Windows 10,1.36,129554,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,No OS,2.2,60280,No,1000,0,0,0
+Notebook,17.3,1600x900,Intel i3,4,Windows 10,2.36,57992,No,1000,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Chrome OS,1.68,30712,No,0,0,0,32
+Workstation,15.6,1920x1080,Intel i7,8,Windows 10,2.0,197912,No,0,8,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.36,156200,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 7,1.2,128480,No,0,256,0,0
+2 in 1 Convertible,12.5,1920x1080,Intel M ,8,Chrome OS,1.2,101992,No,0,0,0,64
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.7,131031,No,0,256,0,0
+Gaming,17.3,3840x2160,Intel i7,16,Windows 10,4.36,277552,No,1000,512,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.24,167112,Yes,0,256,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Pentium,4,Windows 10,1.45,68200,Yes,0,256,0,0
+Ultrabook,13.3,3200x1800,Intel i7,8,Windows 10,1.3,111584,No,0,256,0,0
+2 in 1 Convertible,11.6,1366x768,Intel Celeron,4,Chrome OS,1.25,34232,Yes,0,0,0,32
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.2,135080,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i5,8,Windows 10,1.36,154880,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,12,Windows 10,2.4,88792,No,1000,128,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.1,157520,Yes,0,512,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.04,74492,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.25,40975,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.9,72600,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.04,60280,No,500,0,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.42,277112,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,6,Windows 10,2.4,61160,No,0,256,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,16,Windows 10,1.22,167112,Yes,0,512,0,0
+Ultrabook,14.0,2560x1440,Intel i7,8,Windows 10,1.5,172742,Yes,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.42,246400,No,1000,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.95,103840,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.73,180391,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.04,86152,No,1000,128,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 7,1.70,88176,No,0,0,508,0
+2 in 1 Convertible,15.6,3840x2160,Intel i7,16,Windows 10,2.3,158312,Yes,2000,512,0,0
+Notebook,15.6,1366x768,Intel i7,6,Windows 10,2.04,50952,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.99,153912,No,1000,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,12,Windows 10,2.19,114312,Yes,0,512,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 7,1.2,105160,No,0,128,0,0
+Notebook,15.6,1920x1080,AMD A12,6,Windows 10,2.2,48312,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.3,57112,No,0,256,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.75,80520,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.25,52712,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.04,70928,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.5,104632,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i7,8,Windows 10,2.36,65912,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.6,98472,No,0,128,0,0
+Netbook,12.5,1920x1080,Intel M ,8,Windows 10,0.97,167904,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.1,43912,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,No OS,1.9,23815,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,118712,No,0,256,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.68,78232,Yes,0,256,0,0
+Notebook,13.3,3200x1800,Intel i5,8,Windows 10,1.4,101200,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.11,118712,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2.4,33440,No,500,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.5,158312,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.48,183832,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.7,110880,No,1000,128,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.34,104632,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.18,48136,No,0,128,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.64,68552,No,500,0,0,0
+Notebook,13.3,1920x1080,Intel i5,4,Windows 10,1.2,105160,No,0,128,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.48,96799,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.95,106040,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 7,1.43,127512,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.64,92335,No,0,256,0,0
+Notebook,14.0,1366x768,Intel i3,4,Windows 10,1.64,60192,No,500,0,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.65,83512,No,0,0,1000,0
+Ultrabook,12.5,1920x1080,Intel i5,4,Windows 10,1.26,135432,No,500,0,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.48,139920,No,0,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.54,166074,No,0,256,0,0
+Notebook,13.3,1366x768,Intel i3,4,Windows 10,1.49,70400,No,500,0,0,0
+Notebook,13.3,1366x768,Intel i5,8,Windows 10,1.5,106480,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.04,67759,No,0,256,0,0
+Notebook,17.3,3840x2160,Intel i7,16,Windows 7,2.4,261184,No,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.47,131120,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.43,196152,No,0,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i3,4,Windows 10,2.08,70047,Yes,1000,0,0,0
+Ultrabook,13.3,1920x1080,Intel i5,8,Windows 10,1.2,139920,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.11,101112,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i7,8,Windows 10,1.64,104318,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.09,92087,No,500,0,0,0
+Ultrabook,12.5,1366x768,Intel i5,4,Windows 10,1.26,137192,No,0,256,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,2.31,104632,No,500,0,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.95,93280,No,500,0,0,0
+Ultrabook,13.3,3200x1800,Intel i5,8,Windows 10,1.29,142912,Yes,0,256,0,0
+Notebook,17.3,1920x1080,Intel i5,8,Windows 10,2.63,95040,No,0,256,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.64,85624,No,0,256,0,0
+Notebook,15.6,1366x768,AMD A9,6,Windows 10,2.1,35992,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,104878,No,1000,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 7,1.95,105160,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.84,108151,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.26,118712,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.04,65296,No,500,0,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 10,1.47,151800,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 7,2.09,93540,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.64,88925,No,0,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,4,Windows 10,1.8,74536,Yes,0,256,0,0
+Notebook,14.0,1366x768,Intel Atom,2,Windows 10,1.45,18550,No,0,0,0,32
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.4,125400,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.3,92365,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 10,1.54,88000,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.84,185094,No,500,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 7,1.43,129272,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3.78,136016,No,1000,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.6,201519,No,1000,128,0,0
+Netbook,11.6,1366x768,Intel Celeron,4,Chrome OS,1.2,25335,No,0,0,0,16
+Notebook,14.0,2560x1440,Intel i7,16,Windows 7,1.1,230560,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.91,86152,No,1000,0,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i5,8,Windows 10,2.3,96272,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.04,86152,No,0,256,0,0
+Ultrabook,13.3,3200x1800,Intel i7,16,Windows 10,1.2,198352,Yes,0,1000,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.31,62053,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,No OS,1.96,43912,No,500,0,0,0
+Notebook,15.6,1366x768,AMD A8,8,Windows 10,2.4,39512,No,1000,0,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,12,Windows 10,1.6,114312,Yes,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.94,160072,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.04,94160,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,No OS,4,87824,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.25,49192,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.32,87119,No,2000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,1.8,169752,No,1000,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.29,128304,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,64,Windows 10,3.58,349800,No,0,1000,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i7,8,Windows 10,1.62,70225,Yes,0,256,0,0
+Gaming,15.6,3840x2160,Intel i7,16,Windows 10,3.21,116952,No,1000,256,0,0
+Ultrabook,12.0,2304x1440,Intel M ,8,Mac OS X,0.92,114400,No,0,0,0,256
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.06,42414,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.31,105512,No,500,0,0,0
+Ultrabook,12.5,1920x1080,Intel i5,8,Windows 7,1.26,105512,No,0,256,0,0
+Notebook,13.3,1920x1080,Intel i7,8,Windows 10,1.49,95920,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 10,1.3,150787,Yes,0,256,0,0
+Notebook,17.3,1600x900,Intel i5,8,Windows 10,3.0,57992,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.3,85976,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3.78,219912,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,2.1,47520,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 7,2.31,82720,No,500,0,0,0
+Ultrabook,12.5,2560x1440,Intel M ,8,Windows 10,0.99,123112,Yes,0,512,0,0
+Gaming,17.3,1920x1080,Intel i7,32,Windows 10,4.6,285120,No,0,512,1000,0
+2 in 1 Convertible,10.1,1920x1200,Intel Atom,4,Windows 10,0.69,56872,Yes,0,0,0,64
+Ultrabook,13.3,3840x2160,Intel i7,16,Windows 10,1.3,180312,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.18,66000,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 7,1.54,90727,No,500,0,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 7,1.9,131560,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 7,1.7,105512,No,0,180,0,0
+Notebook,13.3,3200x1800,Intel Pentium,4,Chrome OS,1.29,54120,No,0,0,0,32
+Notebook,15.6,1366x768,AMD A8,4,Windows 10,2.4,34056,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Linux,2.2,34627,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,No OS,1.86,30447,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.7,140712,No,1000,256,0,0
+Ultrabook,13.3,1920x1080,Intel i5,4,Windows 10,1.4,72015,No,0,256,0,0
+Netbook,12.5,1366x768,Intel i5,4,Windows 7,2.4,140712,No,0,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.4,70312,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.36,56214,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.6,140712,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,1.96,44000,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.3,202312,No,1000,128,0,0
+Ultrabook,12.5,1366x768,Intel i3,4,Windows 7,1.5,99893,No,500,0,0,0
+Ultrabook,12.5,1366x768,Intel i3,4,Windows 7,1.5,102693,No,0,128,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Chrome OS,2.20,18392,No,0,16,0,0
+Workstation,17.3,1920x1080,Intel i7,8,Windows 7,3.0,255112,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.4,105512,No,0,512,0,0
+Ultrabook,12.5,1366x768,Intel i5,8,Windows 7,1.5,124353,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,2.9,132985,No,1000,128,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i5,4,Windows 10,2.1,76296,Yes,0,256,0,0
+Notebook,15.6,1920x1080,AMD A6,4,Windows 10,2.1,35024,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.59,117832,No,1000,128,0,0
+Notebook,13.3,3200x1800,Intel M ,8,Windows 10,1.16,149512,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 7,2.24,67685,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.1,37752,No,0,128,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.16,173272,No,0,512,0,0
+2 in 1 Convertible,10.1,1920x1200,Intel Atom,4,Android,0.69,48312,Yes,0,0,0,64
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.23,121352,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.6,241999,No,0,256,1000,0
+Ultrabook,12.5,3840x2160,Intel i7,8,Windows 10,1.25,90552,Yes,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,16,Windows 10,1.05,195888,No,0,512,0,0
+Gaming,17.3,1920x1080,Intel i7,8,Windows 10,3.52,115499,No,1000,128,0,0
+Notebook,13.3,1920x1080,Intel Atom,4,Windows 10,1.35,17248,No,0,0,0,32
+Notebook,13.3,1920x1080,Intel i5,8,Windows 10,1.16,148720,No,0,256,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 7,1.43,133144,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Linux,2.09,46079,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2,38280,No,1000,0,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i7,8,Windows 10,1.8,146872,Yes,0,256,0,0
+2 in 1 Convertible,10.1,1920x1200,Intel Atom,4,Windows 10,0.69,42152,Yes,0,0,0,64
+Ultrabook,12.5,1366x768,Intel i5,8,Windows 7,1.26,166760,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i5,8,No OS,2.4,87032,No,1000,128,0,0
+Gaming,17.3,1920x1080,Intel i5,8,Windows 10,3.35,99352,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i7,8,Windows 10,2.04,55352,No,2000,0,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i7,8,Windows 7,1.8,180433,Yes,0,512,0,0
+Notebook,14.0,1366x768,Intel Celeron,4,Windows 10,1.5,24464,No,0,0,0,32
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 10,1.84,66176,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.23,54208,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.5,96712,No,0,0,1000,0
+Workstation,17.3,1920x1080,Intel i7,8,Windows 7,3,347547,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,2.5,68992,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,3.78,211112,No,1000,256,0,0
+Ultrabook,15.6,1920x1080,Intel i7,8,Windows 7,1.88,191111,No,0,256,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i7,16,Windows 10,2.8,214720,Yes,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.4,100566,No,1000,128,0,0
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.48,143352,Yes,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 7,2.59,196152,No,0,256,0,0
+2 in 1 Convertible,13.3,2560x1440,Intel i7,8,Windows 10,1.48,158312,Yes,0,256,0,0
+Workstation,15.6,1920x1080,Intel i7,8,Windows 7,2.0,167112,No,0,256,0,0
+Ultrabook,12.5,1920x1080,Intel i7,8,Windows 7,1.26,202132,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.18,88871,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 7,1.88,138952,No,0,256,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i7,8,Windows 10,1.27,205832,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,No OS,1.9,29832,No,1000,0,0,0
+Notebook,15.6,1366x768,AMD E,4,Windows 10,1.86,26136,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,No OS,2.32,52712,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.62,105512,No,1000,0,0,0
+Notebook,15.6,3840x2160,Intel i5,8,Windows 10,2.04,198060,Yes,0,256,0,0
+Notebook,15.6,1920x1080,AMD A6,4,Windows 10,1.91,42142,No,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.7,131366,No,1000,256,0,0
+Ultrabook,14.0,1920x1080,Intel i7,12,Windows 7,1.4,202312,No,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.5,69387,No,0,0,1000,0
+2 in 1 Convertible,13.3,2560x1440,Intel i7,8,Windows 10,1.48,179608,Yes,0,512,0,0
+Ultrabook,14.0,1920x1080,Intel i7,8,Windows 7,1.7,131912,No,0,256,0,0
+Gaming,14.0,1920x1080,Intel i7,16,Windows 10,1.7,155672,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.62,79112,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i3,8,Windows 10,2.2,40392,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,No OS,2.1,41975,No,500,0,0,0
+Gaming,15.6,3840x2160,Intel i7,8,Windows 10,2.62,131824,No,1000,128,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,1.95,122320,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.2,41184,No,1000,0,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Windows 10,1.44,21912,No,0,0,0,32
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,73832,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,1.96,59752,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.1,101992,No,0,512,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.2,32472,No,500,0,0,0
+Notebook,15.6,1366x768,Intel i5,4,No OS,2.1,35024,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,No OS,2.2,62392,No,1000,0,0,0
+Notebook,14.0,1920x1080,Intel i3,4,Windows 10,2,67672,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,4,Windows 7,2.32,72600,No,0,0,1000,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,3.31,114840,No,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,1.91,189497,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.07,57200,No,500,0,0,0
+2 in 1 Convertible,14.0,2560x1440,Intel i5,8,Windows 10,1.36,144056,Yes,0,256,0,0
+Ultrabook,15.6,1920x1080,Intel i7,6,Windows 10,1.54,73128,No,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Linux,1.98,78761,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.1,29304,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,6,Windows 10,2.18,70312,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.59,79992,No,1000,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,16,Windows 10,2.09,103752,Yes,0,512,0,0
+Notebook,15.6,1920x1080,Intel i5,4,Windows 10,2.23,60808,No,0,256,0,0
+Ultrabook,13.3,3200x1800,Intel i5,8,Linux,1.23,96712,Yes,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.2,228712,No,1000,256,0,0
+Gaming,15.6,1920x1080,Intel i5,8,Windows 10,2.4,72072,No,1000,0,0,0
+2 in 1 Convertible,12.3,2400x1600,Samsung,4,Chrome OS,1.15,57992,Yes,0,0,0,32
+Notebook,15.6,1366x768,Intel i5,4,Windows 10,1.86,42680,No,500,0,0,0
+Ultrabook,12.0,2304x1440,Intel M ,8,Mac OS X,0.92,102344,No,0,0,0,256
+2 in 1 Convertible,13.3,1920x1080,Intel i5,8,Windows 10,1.6,105512,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,12,Windows 10,2.21,116776,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,No OS,1.9,32384,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.3,189200,No,1000,512,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2.1,23936,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.43,180303,No,1000,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.3,43912,No,0,128,0,0
+Notebook,15.6,1366x768,Intel i7,8,No OS,2.2,55352,No,500,0,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i7,16,Windows 10,2,113080,Yes,0,512,0,0
+Ultrabook,13.3,3200x1800,Intel i7,16,Windows 10,1.2,235840,Yes,0,512,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,102872,No,1000,0,0,0
+Notebook,15.6,1920x1080,Intel i5,8,Windows 10,2.36,78232,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,8,Windows 10,1.91,50952,No,0,256,0,0
+Notebook,15.6,1366x768,AMD E,4,Windows 10,2.2,26312,No,500,0,0,0
+Notebook,17.3,1600x900,Intel i3,8,Windows 10,3.3,55352,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.2,215512,No,1000,256,0,0
+Ultrabook,12.0,2304x1440,Intel M ,8,Mac OS X,0.92,112552,No,0,0,0,512
+Notebook,15.6,1920x1080,Intel i7,16,Windows 10,2.2,153912,No,1000,128,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.43,171511,No,1000,256,0,0
+2 in 1 Convertible,15.6,1920x1080,Intel i5,8,Windows 10,2.19,87912,Yes,0,256,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.9,171512,No,1000,256,0,0
+Netbook,11.6,1366x768,Intel Celeron,2,Chrome OS,1.3,15312,No,0,32,0,0
+Notebook,17.3,1600x900,Intel i3,4,Windows 10,3.3,52624,No,1000,0,0,0
+Notebook,17.3,1600x900,Intel i5,8,No OS,2.8,47432,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.6,111936,No,1000,128,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i7,8,Windows 10,1.2,101112,Yes,0,256,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.3,134552,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,129898,No,1000,128,0,0
+Notebook,15.6,1920x1080,AMD A12,6,Windows 10,2.1,46552,No,1000,0,0,0
+Ultrabook,12.5,1920x1080,Intel i5,8,Windows 7,1.26,150777,Yes,0,256,0,0
+2 in 1 Convertible,15.0,1920x1080,Intel i3,4,Windows 10,2.08,44792,Yes,500,0,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2.65,27192,No,1000,0,0,0
+Ultrabook,13.3,3200x1800,Intel i7,8,Windows 10,1.29,129976,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Linux,2.18,45924,No,1000,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.6,90552,Yes,1000,128,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.2,101112,No,1000,128,0,0
+Netbook,12.5,1920x1080,Intel i7,16,Windows 10,1.3,145200,Yes,0,512,0,0
+Gaming,14.0,1920x1080,Intel i7,16,Windows 10,1.95,307912,No,0,1000,0,0
+Notebook,15.6,1366x768,Intel i3,8,Windows 10,2.3,41273,Yes,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,2.7,140624,No,1000,256,0,0
+Ultrabook,11.6,1366x768,Intel i5,4,Mac OS X,1.08,84392,No,0,0,0,256
+Notebook,15.6,1920x1080,Intel i3,4,Windows 10,2.1,42064,No,1000,0,0,0
+Ultrabook,14.0,2560x1440,Intel i7,8,Windows 7,1.54,193441,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i5,4,Windows 7,2.24,64856,No,500,0,0,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.3,102872,No,1000,128,0,0
+Notebook,13.3,1920x1080,Intel i7,16,Windows 10,1.4,131912,No,0,512,0,0
+Notebook,15.6,1920x1080,AMD A12,6,Windows 10,2.2,52586,No,0,256,0,0
+Ultrabook,13.3,1920x1080,Intel i7,8,Windows 10,1.45,112640,No,0,256,0,0
+Notebook,15.6,1366x768,Intel i3,4,Linux,2.4,31838,No,500,0,0,0
+2 in 1 Convertible,17.3,1920x1080,Intel i7,16,Windows 10,2.77,158312,Yes,0,512,0,0
+Notebook,14.0,1920x1080,Intel i5,4,Windows 7,1.54,96799,No,0,256,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.5,140800,No,1000,256,0,0
+Notebook,14.0,1366x768,Intel i5,4,Windows 10,1.6,77000,No,500,0,0,0
+Gaming,15.6,1920x1080,Intel i7,16,Windows 10,2.34,204600,No,1000,256,0,0
+Notebook,15.6,1920x1080,Intel i5,8,No OS,2.3,50424,No,0,256,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i5,8,Windows 10,1.24,159544,Yes,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Linux,2.2,28512,No,500,0,0,0
+Notebook,15.6,1366x768,AMD A6,4,Windows 10,1.86,35112,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i3,6,Windows 10,2.4,50072,No,0,128,0,0
+Notebook,14.0,1920x1080,Intel i5,8,Windows 10,1.9,94336,No,0,256,0,0
+Notebook,15.6,1366x768,Intel Pentium,4,Windows 10,2.2,39071,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2,29832,No,1000,0,0,0
+Gaming,17.3,1920x1080,Intel i7,16,Windows 10,4.0,167200,No,1000,128,0,0
+Notebook,15.6,1366x768,Intel i3,4,Windows 10,2.29,43120,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 7,2.32,78760,No,0,0,1000,0
+Gaming,15.6,1920x1080,Intel i7,8,Windows 10,2.4,108152,No,1000,128,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i5,4,Windows 10,1.8,73305,Yes,0,128,0,0
+Ultrabook,13.3,1920x1080,Intel M ,8,Windows 10,1.2,64152,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,6,Windows 10,2.3,40392,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2.4,25432,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,2,Windows 10,2.20,33352,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.6,79112,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,6,Windows 10,2.04,48399,No,0,0,1000,0
+Notebook,15.6,1366x768,Intel i7,8,Linux,2.3,70927,No,1000,0,0,0
+Netbook,11.6,1366x768,Intel Celeron,2,Windows 10,1.17,18392,No,0,0,0,32
+Notebook,15.6,1366x768,Intel i7,4,Windows 10,2.2,63388,No,500,0,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i7,4,Windows 10,1.8,56144,Yes,0,128,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,16,Windows 10,1.3,131912,Yes,0,512,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Windows 10,1.5,20152,No,0,0,0,64
+Notebook,15.6,1366x768,Intel i7,6,Windows 10,2.19,67232,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.2,32472,No,500,0,0,0
+Ultrabook,13.3,1920x1080,Intel M ,8,Windows 10,1.2,64152,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,6,Windows 10,2.3,40392,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2.4,25432,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,2,Windows 10,2.20,33352,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.6,79112,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,6,Windows 10,2.04,48399,No,0,0,1000,0
+Notebook,15.6,1366x768,Intel i7,8,Linux,2.3,70927,No,1000,0,0,0
+Netbook,11.6,1366x768,Intel Celeron,2,Windows 10,1.17,18392,No,0,0,0,32
+Notebook,15.6,1366x768,Intel i7,4,Windows 10,2.2,63388,No,500,0,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i7,4,Windows 10,1.8,56144,Yes,0,128,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,16,Windows 10,1.3,131912,Yes,0,512,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Windows 10,1.5,20152,No,0,0,0,64
+Notebook,15.6,1366x768,Intel i7,6,Windows 10,2.19,67232,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.2,32472,No,500,0,0,0
+Ultrabook,13.3,1920x1080,Intel M ,8,Windows 10,1.2,64152,No,0,512,0,0
+Notebook,15.6,1366x768,Intel i3,6,Windows 10,2.3,40392,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Linux,2.4,25432,No,500,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,2,Windows 10,2.20,33352,No,500,0,0,0
+Notebook,15.6,1920x1080,Intel i7,8,Windows 10,2.6,79112,No,1000,0,0,0
+Notebook,15.6,1920x1080,AMD A9,6,Windows 10,2.04,48399,No,0,0,1000,0
+Notebook,15.6,1366x768,Intel i7,8,Linux,2.3,70927,No,1000,0,0,0
+Netbook,11.6,1366x768,Intel Celeron,2,Windows 10,1.17,18392,No,0,0,0,32
+Notebook,15.6,1366x768,Intel i7,4,Windows 10,2.2,63388,No,500,0,0,0
+2 in 1 Convertible,14.0,1920x1080,Intel i7,4,Windows 10,1.8,56144,Yes,0,128,0,0
+2 in 1 Convertible,13.3,3200x1800,Intel i7,16,Windows 10,1.3,131912,Yes,0,512,0,0
+Notebook,14.0,1366x768,Intel Celeron,2,Windows 10,1.5,20152,No,0,0,0,64
+Notebook,15.6,1366x768,Intel i7,6,Windows 10,2.19,67232,No,1000,0,0,0
+Notebook,15.6,1366x768,Intel Celeron,4,Windows 10,2.2,32472,No,500,0,0,0
